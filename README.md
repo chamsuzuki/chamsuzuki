@@ -10,13 +10,11 @@ I design, build, and operate production web services, with a focus on cloud arch
 
 [**Play ReversiWise**](https://reversiwise.com/) · [Project overview](https://github.com/chamsuzuki/reversiwise-showcase)
 
-ReversiWise is a browser-based Reversi game platform. Players can challenge AI opponents, play online, and turn completed matches into learning opportunities through game replay and move review.
+ReversiWise is a browser-based Reversi game platform. The service offers a browser-based experience for playing and practicing Reversi, including an AI-opponent experience.
 
-- **Play:** free Reversi vs AI, rated online matches, and private games.
-- **Review:** replay moves, inspect mistakes, and compare recommended alternatives.
-- **Practice:** revisit difficult positions and track personal learning progress.
-
-Learn more: [Reversi vs AI](https://reversiwise.com/en/lp/ai) · [Online multiplayer](https://reversiwise.com/en/lp/online) · [Game analysis](https://reversiwise.com/en/lp/review).
+- **Play:** explore Reversi against an AI opponent.
+- **Practice:** develop board awareness, corner control, and endgame strategy.
+- **Explore:** visit the official site for currently available play modes and features.
 
 ### [Remaster AI — AI Video Upscaling and Super Resolution](https://app.remaster.ai/)
 
@@ -24,7 +22,7 @@ Learn more: [Reversi vs AI](https://reversiwise.com/en/lp/ai) · [Online multipl
 
 Remaster AI is a browser-accessible video enhancement service built around cloud-based AI super-resolution. It is intended for workflows that upscale lower-resolution footage, including SD-to-HD and higher-resolution output use cases. Actual visual improvements depend on source quality and content.
 
-My work on this project includes web application engineering, AWS-based cloud infrastructure, and production delivery for [Majulah, Inc. (株式会社マジュラー)](https://remaster.ai/).
+My work on this project includes web application engineering, AWS-based cloud infrastructure, and production delivery for 株式会社マジュラー.
 
 ## Engineering focus
 
@@ -39,7 +37,7 @@ I focus on building services that can be operated and maintained in production, 
 
 鈴木勇。Webアプリケーション開発からAWS基盤、AI処理基盤との連携、セキュリティ、CI/CD、本番運用までを扱うソフトウェアエンジニアです。
 
-- [**ReversiWise**](https://reversiwise.com/)：ブラウザでAI対戦・オンライン対戦・棋譜の振り返りができるリバーシサービス。
+- [**ReversiWise**](https://reversiwise.com/)：ブラウザでリバーシのAI対戦を楽しめるサービス。
 - [**Remaster AI**](https://app.remaster.ai/)：株式会社マジュラー向けのAI動画超解像Webサービス。Webアプリケーション・クラウド基盤の構築に携わっています。
 
 ---
